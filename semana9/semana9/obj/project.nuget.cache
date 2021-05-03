@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "y3FI7cD6GoyZtRDNuBAWImV4EaZpIGBDYresh47C5LJnUYiVJpiI8vfhSRb84I5IjHGRAYsZTjFS4C0Rgzvnpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yeridi Crhis\\source\\repos\\semana9\\semana9\\semana9\\semana9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yeridi Crhis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Yeridi Crhis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Yeridi Crhis\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
